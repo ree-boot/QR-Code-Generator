@@ -10,6 +10,9 @@ To run this program, you can use any IDE which supports Javascript like VS Code,
 
 The qr code is generated using the api: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example
 
+The icons were generated using: https://favicon.io/
+
+
 ## Authors
 
 Rishabh Rawat (ree-boot)
