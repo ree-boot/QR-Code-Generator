@@ -8,6 +8,8 @@ This program is a simple frontend program written in HTML, CSS, and JavaScript. 
 
 To run this program, you can use any IDE which supports Javascript like VS Code, and have Node.js and extensions like live preview.
 
+## Credits
+
 The qr code is generated using the api: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example
 
 The icons were generated using: https://favicon.io/
