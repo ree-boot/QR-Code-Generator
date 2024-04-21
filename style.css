@@ -53,9 +53,10 @@ h1 {
 }
 
 #img {
-  margin-left: 50px;
+  margin-left: 40px;
   height: 300px;
   width: 400px;
+  margin-right: 10px;
 }
 
 button {
@@ -78,10 +79,13 @@ button:hover {
 @media (max-width: 768px) {
   .io {
     display: block;
-    width: 100%;
   }
 
   .ip-op {
+    width: 85%;
+  }
+
+  button {
     width: 100%;
   }
 
